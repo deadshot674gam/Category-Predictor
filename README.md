@@ -1,2 +1,2 @@
 # Category-Predictor
-It determines different images into categories using python and machine learning.
+It categorises different sentences into categories like Hockey, Politics, Technology, Vehicle,etc. Using Multinomial Naive Bayes.
